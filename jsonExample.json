@@ -1,0 +1,216 @@
+[
+   {
+      "Version": "1.1",
+      "TranDtls": {
+         "TaxSch": "GST",
+         "SupTyp": "B2B",
+         "IgstOnIntra": "N",
+         "RegRev": "N",
+         "EcmGstin": null
+      },
+      "DocDtls": {
+         "Typ": "INV",
+         "No": "NICE/CTD1",
+         "Dt": "06/08/2020"
+      },
+      "SellerDtls": {
+         "Gstin": "",
+         "LglNm": "",
+         "TrdNm": "",
+         "Addr1": "",
+         "Addr2": "",
+         "Loc": "",
+         "Pin": 0,
+         "Stcd": "",
+         "Ph": "",
+         "Em": ""
+      },
+      "BuyerDtls": {
+         "Gstin": "",
+         "LglNm": "",
+         "TrdNm": "",
+         "Pos": "3",
+         "Addr1": "",
+         "Addr2": "",
+         "Loc": "",
+         "Pin": 0,
+         "Stcd": "",
+         "Ph": "",
+         "Em": ""
+      },
+      "DispDtls": {
+         "Nm": "",
+         "Addr1": "",
+         "Addr2": "",
+         "Loc": "",
+         "Pin": 0,
+         "Stcd": ""
+      },
+      "ShipDtls": {
+         "Gstin": "",
+         "LglNm": "",
+         "TrdNm": "",
+         "Addr1": "",
+         "Addr2": "",
+         "Loc": "",
+         "Pin": 0,
+         "Stcd": ""
+      },
+      "ValDtls": {
+         "AssVal": 0,
+         "IgstVal": 0,
+         "CgstVal": 0,
+         "SgstVal": 0,
+         "CesVal": 0,
+         "StCesVal": 0,
+         "Discount": 0,
+         "OthChrg": 0,
+         "RndOffAmt": 0,
+         "TotInvVal": 0,
+         "TotInvValFc": 0
+      },
+      "ExpDtls": null,
+      "EwbDtls": {
+         "TransId": "",
+         "TransName": "",
+         "TransMode": "",
+         "Distance": 0,
+         "TransDocNo": "",
+         "TransDocDt": "",
+         "VehNo": "",
+         "VehType": ""
+      },
+      "PayDtls": null,
+      "RefDtls": null,
+      "AddlDocDtls": {
+         "Url": null,
+         "Docs": null,
+         "Info": null
+      },
+      "ItemList": [
+         {
+            "SlNo": 1,
+            "PrdDesc": "steel",
+            "IsServc": "N",
+            "HsnCd": "",
+            "Barcde": null,
+            "Qty": 0,
+            "FreeQty": 0,
+            "Unit": "",
+            "UnitPrice": 0,
+            "TotAmt": 0,
+            "Discount": 0,
+            "PreTaxVal": 0,
+            "AssAmt": 0,
+            "GstRt": 0,
+            "IgstAmt": 0,
+            "CgstAmt": 0,
+            "SgstAmt": 0,
+            "CesRt": 0,
+            "CesAmt": 0,
+            "CesNonAdvlAmt": 0,
+            "StateCesRt": 0,
+            "StateCesAmt": 0,
+            "StateCesNonAdvlAmt": 0,
+            "OthChrg": 0,
+            "TotItemVal": 0,
+            "OrdLineRef": null,
+            "OrgCntry": null,
+            "PrdSlNo": null,
+            "BchDtls": {
+               "Nm": "",
+               "ExpDt": "",
+               "WrDt": ""
+            },
+            "AttribDtls": [
+               {
+                  "Nm": "",
+                  "Val": null
+               }
+            ]
+         },
+         {
+            "SlNo": 2,
+            "PrdDesc": "steel",
+            "IsServc": "N",
+            "HsnCd": "",
+            "Barcde": null,
+            "Qty": 0,
+            "FreeQty": 0,
+            "Unit": "",
+            "UnitPrice": 0,
+            "TotAmt": 0,
+            "Discount": 0,
+            "PreTaxVal": 0,
+            "AssAmt": 0,
+            "GstRt": 0,
+            "IgstAmt": 0,
+            "CgstAmt": 0,
+            "SgstAmt": 0,
+            "CesRt": 0,
+            "CesAmt": 0,
+            "CesNonAdvlAmt": 0,
+            "StateCesRt": 0,
+            "StateCesAmt": 0,
+            "StateCesNonAdvlAmt": 0,
+            "OthChrg": 0,
+            "TotItemVal": 0,
+            "OrdLineRef": null,
+            "OrgCntry": null,
+            "PrdSlNo": null,
+            "BchDtls": {
+               "Nm": "",
+               "ExpDt": "",
+               "WrDt": ""
+            },
+            "AttribDtls": [
+               {
+                  "Nm": "",
+                  "Val": null
+               }
+            ]
+         },
+         {
+            "SlNo": 3,
+            "PrdDesc": "steel",
+            "IsServc": "N",
+            "HsnCd": "",
+            "Barcde": null,
+            "Qty": 0,
+            "FreeQty": 0,
+            "Unit": "",
+            "UnitPrice": 0,
+            "TotAmt": 0,
+            "Discount": 0,
+            "PreTaxVal": 0,
+            "AssAmt": 0,
+            "GstRt": 0,
+            "IgstAmt": 0,
+            "CgstAmt": 0,
+            "SgstAmt": 0,
+            "CesRt": 0,
+            "CesAmt": 0,
+            "CesNonAdvlAmt": 0,
+            "StateCesRt": 0,
+            "StateCesAmt": 0,
+            "StateCesNonAdvlAmt": 0,
+            "OthChrg": 0,
+            "TotItemVal": 0,
+            "OrdLineRef": null,
+            "OrgCntry": null,
+            "PrdSlNo": null,
+            "BchDtls": {
+               "Nm": "",
+               "ExpDt": "",
+               "WrDt": ""
+            },
+            "AttribDtls": [
+               {
+                  "Nm": "",
+                  "Val": null
+               }
+            ]
+         }
+      ]
+   }
+]
